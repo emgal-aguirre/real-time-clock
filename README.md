@@ -13,4 +13,4 @@ Languages Used:
 
 
 # Here is a screen shot of the website. 
-![ ](Assets/screeenshot1)
+![ ](Assets/screenshot1.png)
