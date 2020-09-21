@@ -3,7 +3,7 @@
 Javascript practice creating a Real-Time-Clock. 
 
 Here is a link to the deployed website:
-https://emgal-aguirre.github.io/Recipe-Generator/.
+ https://emgal-aguirre.github.io/real-time-clock/.
 
 
 Languages Used: 
