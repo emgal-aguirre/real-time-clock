@@ -2,7 +2,7 @@ function realtimeClock() {
 
     var rtClock = new Date();
 
-    var hour = rtClock.getHours();
+    var hours = rtClock.getHours();
     var minutes = rtClock.getMinutes();
     var seconds = rtClock.getSeconds();
 
@@ -10,7 +10,7 @@ function realtimeClock() {
     var amPm = (hours < 12) ? "AM" : "PM";
 
     // Convert the hours components to 12-hour format
-    hours = (hours > 12) ? hour - 12 : hours;
+    hours = (hours > 12) ? hours - 12 : hours;
 
     //Pad the house. minutes and seconds with leading zeros
     hours = ("0" + hours).slice(-2);
@@ -28,7 +28,7 @@ function realtimeClock() {
 
     var rtClock = new Date();
 
-    var hour = rtClock.getHours();
+    var hours = rtClock.getHours();
     var minutes = rtClock.getMinutes();
     var seconds = rtClock.getSeconds();
 
@@ -36,7 +36,7 @@ function realtimeClock() {
     var amPm = (hours < 12) ? "AM" : "PM";
 
     // Convert the hours components to 12-hour format
-    hours = (hours > 12) ? hour - 12 : hours;
+    hours = (hours > 12) ? hours - 12 : hours;
 
     //Pad the house. minutes and seconds with leading zeros
     hours = ("0" + hours).slice(-2);
